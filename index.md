@@ -1,3 +1,6 @@
+# Lists 09/27/2018
+This week I learned how to do lists. Second, I learned that you can several strings, then you define the list in it puts all of the strings listed. Third, I learned how to do plots in python and then it automatically displays the graph. Fourth, when you write the append, it adds a string to the list as the last number. Fifth, I learned that in the lists you don have to put the commas inside of the quotes, they can be outside just separating them. Sixth, I learned how to sort or but a word backwards in python. 
+
 # Conditionals 09/21/2018
 
 This week I learnes how to write if or elif statements in python, where to put them, if we need to put them nested. Second, I also learned when and how to put colons, after what statemnets should I put it. Third, I also learned how to use the else statement, that the only thing you can put right next top it is a colon. Fourth, this week we used a lot the grater than, less than, equals, to use with the if and elif statements. Fifth, in the quiz I learned that in a variable you cannot start with a number, but you can put a number anywhere else but in the begining pf the variable. Sixth, in the begginign I had the mistake that in the if I used to put "=", but then I learned that it needed to be "==".
