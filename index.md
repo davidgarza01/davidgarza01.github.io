@@ -1,3 +1,6 @@
+# Loops Pt 1 10/05/2018
+This week I learned how to put an append on a list, that it adds a string to the list. Second, I also learned how to slice things in python, in a list. Third, I learned how to reverse things on a list, letter, numbers, etc. Fourth, I larned how to add things on the input to a list and then display them. Fifth, this week in the homewrok we incorporated variables, with if's and elif's and also list. Sixth, I also learned how to split a list, into words or paragraphs.
+
 # Lists 09/27/2018
 This week I learned how to do lists. Second, I learned that you can several strings, then you define the list in it puts all of the strings listed. Third, I learned how to do plots in python and then it automatically displays the graph. Fourth, when you write the append, it adds a string to the list as the last number. Fifth, I learned that in the lists you don have to put the commas inside of the quotes, they can be outside just separating them. Sixth, I learned how to sort or but a word backwards in python. 
 
