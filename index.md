@@ -1,3 +1,6 @@
+# For Loops 
+This weekend I learned how to do for loops. Second, I learned that in the for loops we have to put a variable inside that determines each letter or number of the list or input. Third, I learned that a strong number is defined as a number thas has the sum of the factorial of each digit is equal to its original number. Fourth, I was able to factor the number with a code and then check if it was a strong numbers. Fifth, i learned how to display how many strong numbers are in between 1 and any number. Sixth, in this week homework I learned how to factor a number in a code, and how to put if statements in the for loop to see if the input is true and if it is to display the phonetic alphabet, whith the word that is in the input. 
+
 # Loops Pt 1 10/05/2018
 This week I learned how to put an append on a list, that it adds a string to the list. Second, I also learned how to slice things in python, in a list. Third, I learned how to reverse things on a list, letter, numbers, etc. Fourth, I larned how to add things on the input to a list and then display them. Fifth, this week in the homewrok we incorporated variables, with if's and elif's and also list. Sixth, I also learned how to split a list, into words or paragraphs.
 
