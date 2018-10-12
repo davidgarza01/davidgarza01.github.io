@@ -1,4 +1,4 @@
-# For Loops 
+# For Loops 10/12/2018
 This weekend I learned how to do for loops. Second, I learned that in the for loops we have to put a variable inside that determines each letter or number of the list or input. Third, I learned that a strong number is defined as a number thas has the sum of the factorial of each digit is equal to its original number. Fourth, I was able to factor the number with a code and then check if it was a strong numbers. Fifth, i learned how to display how many strong numbers are in between 1 and any number. Sixth, in this week homework I learned how to factor a number in a code, and how to put if statements in the for loop to see if the input is true and if it is to display the phonetic alphabet, whith the word that is in the input. 
 
 # Loops Pt 1 10/05/2018
