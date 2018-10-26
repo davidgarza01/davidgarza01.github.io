@@ -1,3 +1,6 @@
+# While & Scopes 26/10/2018
+This week I learned hoy wo to do while loops and scopes. Second, I learned that a while loop is like an if statement and it will keep running until it is false. Third, I lersned hot to add  or remove things in a dictionary a dictionary. Fourth, I also learned how to add several dictionaries into one list. Fifth, I learned how to loop each value of a dictionary by using dictionary.VALUES():. Sixth, I learned that in a scope you can define the variable and tat variable will be only be existing inside that scope.
+
 # Dictionary 10/19/2018
 This weekend I learned how to do dictionaries. Second, I learned that dictionaries are similar to list, but the difference is that in dictionares it does not matter the cronological order. Third, a dictionary works with pairs, is like having a variable  inside of a list (i.e "First Name" , "David). Fourth, to select something from a dictionary instead of selecting th numberl you select the key of what you eant to put. Fifth, I learned that to do a dictionary instead of using the brackets like the list, you use a curvy bracket {}. Sixth, in a dictionary you can put more information than in a list. 
 
