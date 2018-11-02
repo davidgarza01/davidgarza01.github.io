@@ -1,4 +1,7 @@
-# While & Scopes 26/10/2018
+# Functions 11/02/2018
+This week i learned how to do functions. Second, I learned that functions only one whenever you tell them to work, they can be in the programm but they will not start working unless you tell it to. Third, I learned that you can but variables inside the function (def cars(red, blue). Fourth, I learned that those variables follow the chronological order. Fifth, so when you put a variable outside the function you can put (chevy = camaro, doedge = charger), then write ( cars(chevy, doedge) ) and it will use chevy as red and doedge as blue. Sixth, I learned how to to bubble sort and selection sort.
+
+# While & Scopes 10/26/2018
 This week I learned hoy wo to do while loops and scopes. Second, I learned that a while loop is like an if statement and it will keep running until it is false. Third, I lersned hot to add  or remove things in a dictionary a dictionary. Fourth, I also learned how to add several dictionaries into one list. Fifth, I learned how to loop each value of a dictionary by using dictionary.VALUES():. Sixth, I learned that in a scope you can define the variable and tat variable will be only be existing inside that scope.
 
 # Dictionary 10/19/2018
