@@ -1,3 +1,6 @@
+# Class 11/30/2018 
+This week we learend a how to write classes more explicitly. First, I learend what is de "__init__" function. Second, I learned how to use the dot in a variable in a  parameter (i.e self.values, becasue I did not understood it theat well before. Third, we are doing a card game, we are splitting, shuffling, etc. Fourth, we are doing everything inside functions, and we have a differnet file for the suit, card or rank. Sixth, I finally understan how the returns work, in a function when you put return it means that that value is going outside of the function. 
+
 # Functions 11/02/2018
 This week i learned how to do functions. Second, I learned that functions only one whenever you tell them to work, they can be in the programm but they will not start working unless you tell it to. Third, I learned that you can but variables inside the function (def cars(red, blue). Fourth, I learned that those variables follow the chronological order. Fifth, so when you put a variable outside the function you can put (chevy = camaro, doedge = charger), then write ( cars(chevy, doedge) ) and it will use chevy as red and doedge as blue. Sixth, I learned how to to bubble sort and selection sort.
 
