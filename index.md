@@ -1,3 +1,6 @@
+# Fish 12/14/2018
+This week I learned how to use the raspberry pi. Second, I learned how to display things into the raspberry pi, but it was upside down. Third, I learned how to  rotate the text. Fourth, I learned how to change the color (255, 0 ,0) using this 3 numbers you can switch them up to change the color. Fifth, I learned how to put a smiley face, using the pixel. Sixth, I did not understand why you couln not put only one pixel, then I found out that it is supposed to be 64, because there is 64 invdividual lights in the raspberyy pi. 
+
 # Class 11/30/2018 
 This week we learend a how to write classes more explicitly. First, I learend what is de "__init__" function. Second, I learned how to use the dot in a variable in a  parameter (i.e self.values, becasue I did not understood it theat well before. Third, we are doing a card game, we are splitting, shuffling, etc. Fourth, we are doing everything inside functions, and we have a differnet file for the suit, card or rank. Sixth, I finally understan how the returns work, in a function when you put return it means that that value is going outside of the function. 
 
